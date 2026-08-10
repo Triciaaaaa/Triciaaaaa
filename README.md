@@ -1,6 +1,6 @@
 # Hi, I'm Tricia 👋
 
-**Philosophy BA → ML data engineer.** I build **training-data pipelines for vision-language models** — data quality auditing, distribution detection, and synthetic-data workflows — and on the side I run **multi-agent LLM experiments** and do research on **AI alignment theory**.
+**Philosophy BA → data scientist.** I build **training-data pipelines for vision-language models** — data quality auditing, distribution detection, and synthetic-data workflows — and on the side I run **multi-agent LLM experiments** and do research on **AI alignment theory**.
 
 I like systems where trust is earned mechanically: pre-registered experiments, frozen success criteria, proofs checked by a kernel instead of a vibe.
 
