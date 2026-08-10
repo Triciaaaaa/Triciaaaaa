@@ -8,9 +8,8 @@ I like systems where trust is earned mechanically: pre-registered experiments, f
 
 | | |
 |---|---|
-| 🐝 [**swarm-preregistration**](https://github.com/Triciaaaaa/swarm-preregistration) | Pre-registered study of emergent specialization and adversarial resilience in a **1000-agent LLM swarm** (ICLR 2027 submission track) |
-| 🧮 [**math-swarm**](https://github.com/Triciaaaaa/math-swarm) | Budget-governed multi-model pipeline for math research — every claim must survive **SAT / DRAT / Lean-kernel verification** before an expensive model sees it; success criteria frozen before solving starts |
-| 🌍 [**agent-evolution-sim**](https://github.com/Triciaaaaa/agent-evolution-sim) | Superintelligence-race simulation: LLM-driven factions accelerate, ally, hide capability, and fake safety signals under partial observability |
+| 🐝 [**swarm-preregistration**](https://github.com/Triciaaaaa/swarm-preregistration) | Pre-registered study design and findings registry for a large-scale multi-agent LLM experiment — hypotheses and success criteria committed before analysis |
+| 🧮 [**math-swarm**](https://github.com/Triciaaaaa/math-swarm) | Multi-model pipeline for math research — every claim must survive **SAT / DRAT / Lean-kernel verification** before an expensive model sees it; success criteria frozen before solving starts |
 | 📚 [**ai-paper-tracker**](https://github.com/Triciaaaaa/ai-paper-tracker) | Automated daily pipeline — fetches HF Daily Papers + lab blogs, filters by data-engineering/VLM topics, AI-summarizes in Chinese, pushes to Feishu |
 
 ## 🛡️ Research
